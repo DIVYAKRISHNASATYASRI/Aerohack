@@ -1,0 +1,4 @@
+# Competition test cases
+F R' U B' L D2
+R U R' U' R' F R F'
+D2 F2 R2 U2 B2 L2
